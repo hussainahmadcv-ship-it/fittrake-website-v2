@@ -25,4 +25,6 @@ Completed (Learning Project)
 
 ## 📷 Screenshots
 
+![FitTrake Screenshot](assets/images/fittrake-screenshot.png)
+
 
