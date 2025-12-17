@@ -1,6 +1,6 @@
-# FitTrake Fitness Website 🏋️‍♂️
+# FitTrack Fitness Website 🏋️‍♂️
 
-FitTrake is a simple beginner-level fitness website created using **HTML, CSS, and JavaScript**.  
+FitTrack is a simple beginner-level fitness website created using **HTML, CSS, and JavaScript**.  
 This project is made to practice basic front-end web development skills.
 
 ## 🌱 About the Project
